@@ -17,7 +17,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(images/newimg4.jpg);
+    background-image: url(newimg4.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -383,7 +383,7 @@ nav .fas{
 }
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(images/temp2.png);
+        background-image: url(temp2.png);
     }
 
     .header-text {
